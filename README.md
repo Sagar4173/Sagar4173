@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a **passionate Full Stack Developer** from **Pune, India**, specializing in modern web technologies with **2+ years of experience** building innovative digital solutions. Currently pursuing my final year in Computer Engineering, I combine academic knowledge with real-world project experience.
+I'm a **passionate Full Stack Developer** from **Pune, India**, specializing in modern web technologies building innovative digital solutions. Currently pursuing my final year in Computer Engineering, I combine academic knowledge with real-world project experience.
 
 ```javascript
 const sagar = {
@@ -23,7 +23,6 @@ const sagar = {
   location: "Pune, Maharashtra, India",
   role: "Full Stack Developer",
   education: "Final Year - Computer Engineering",
-  experience: "2+ years",
   passions: ["Web Development", "UI/UX Design", "Problem Solving"],
   currentFocus: "Building scalable web applications",
   availableFor: ["Freelance Projects", "Full-time Opportunities", "Collaboration"]
