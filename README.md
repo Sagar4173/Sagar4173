@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Profile Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Developer;React+%26+Node.js+Expert;Building+Modern+Web+Solutions;2%2B+Years+Experience)
+  ![Profile Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Developer;React+%26+Node.js+Expert;Building+Modern+Web+Solutions)
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-sagarwavhal.tech-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sagarwavhal.tech)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-sagarwavhal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagarwavhal/)
