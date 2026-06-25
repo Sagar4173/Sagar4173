@@ -4,7 +4,7 @@
   
   ![Profile Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Developer;React+%26+Node.js+Expert;Building+Modern+Web+Solutions)
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-sagarwavhal.tech-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sagarwavhal.tech)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-sagarwavhal.dev-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sagarwavhal.dev)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-sagarwavhal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagarwavhal/)
   [![Twitter](https://img.shields.io/badge/Twitter-@sagarwavhal4173-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sagarwavhal4173)
   [![Email](https://img.shields.io/badge/Email-sagarwavhal4173@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarwavhal4173@gmail.com)
@@ -185,7 +185,7 @@ const sagar: Professional = {
 
 **Ready to collaborate on your next project?**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sagarwavhal.tech-6366F1?style=for-the-badge)](https://sagarwavhal.tech)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sagarwavhal.dev-6366F1?style=for-the-badge)](https://sagarwavhal.dev)
 [![Email](https://img.shields.io/badge/📧_Email-sagarwavhal4173@gmail.com-D14836?style=for-the-badge)](mailto:sagarwavhal4173@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_with_me-0077B5?style=for-the-badge)](https://www.linkedin.com/in/sagarwavhal/)
 [![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow_me-1DA1F2?style=for-the-badge)](https://x.com/sagarwavhal4173)
