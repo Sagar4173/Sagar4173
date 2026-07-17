@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F0FF,100:7C3AED&height=230&section=header&text=Sagar%20Wavhal&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=GenAI%20Developer%20%7C%20AI%20Systems%20Builder&descAlignY=55&descSize=18)
+![Header](./assets/header-banner.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=600&lines=Building+AI-Powered+Production+Systems;6+Shipped+Applications+%7C+GPT-4+%2B+Gemini;From+Intent+to+Production+%E2%80%94+AI+as+Co-Developer)](https://git.io/typing-svg)
 
