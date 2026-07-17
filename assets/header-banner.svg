@@ -1,0 +1,33 @@
+<svg width="1400" height="220" viewBox="0 0 1400 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="45%" stop-color="#00A8CC"/>
+      <stop offset="75%" stop-color="#5B4CD6"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00F0FF" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1400" height="220" fill="#0D1117"/>
+  <rect width="1400" height="220" fill="url(#bgGradient)" opacity="0.85"/>
+
+  <rect x="0" y="0" width="1400" height="3" fill="url(#accentLine)"/>
+  <rect x="0" y="217" width="1400" height="3" fill="url(#accentLine)"/>
+
+  <text x="700" y="100" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#FFFFFF" letter-spacing="1">
+    Sagar Wavhal
+  </text>
+  <text x="700" y="150" text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace" font-size="22" font-weight="500" fill="#E6FBFF" letter-spacing="0.5">
+    GenAI Developer&#160;&#160;|&#160;&#160;AI Systems Builder
+  </text>
+
+  <circle cx="120" cy="60" r="2.5" fill="#00F0FF" opacity="0.6"/>
+  <circle cx="180" cy="150" r="2" fill="#7C3AED" opacity="0.5"/>
+  <circle cx="1280" cy="60" r="2" fill="#7C3AED" opacity="0.5"/>
+  <circle cx="1230" cy="155" r="2.5" fill="#00F0FF" opacity="0.6"/>
+</svg>
