@@ -250,5 +250,3 @@ Open-source security platform
 [![Twitter](https://img.shields.io/badge/🐦_𝕏-Follow-000000?style=for-the-badge)](https://x.com/sagarwavhal4173)
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00F0FF,100:0D1117&height=120&section=footer)
